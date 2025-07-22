@@ -3,3 +3,5 @@ good morning
 how are you
 thank you
 welcome
+i am fine
+bye
